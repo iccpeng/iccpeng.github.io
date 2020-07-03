@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://iccpeng.top/about/index.html</loc>
+    
+    <lastmod>2020-07-03T06:14:02.055Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://iccpeng.top/2020/07/01/HelloHexo/</loc>
     
     <lastmod>2020-07-03T02:03:27.080Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://iccpeng.top/tags/index.html</loc>
     
     <lastmod>2020-07-02T05:36:04.720Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://iccpeng.top/about/index.html</loc>
-    
-    <lastmod>2020-07-02T05:35:08.071Z</lastmod>
     
   </url>
   
